@@ -1,0 +1,10 @@
+{
+    "name":"Mod Name",
+    "description":"Mod Description",
+    "author":"Tuv0x",
+    "version":"1.0b",
+    "gameVersion":"0.9.1a-RC8",
+    "utility":false,
+    "jars":["jars/"],
+    "modPlugin":"org.tuvox.ModPlugin"
+}
