@@ -9,15 +9,15 @@ Once created from template, it should look something like this once cloned
 Something like:
 ```
 starsector
-⊢mods
-  ⊢Repo Name (Mod name)
+⨽mods
+  ⨽Repo Name (Mod name)
     ⊢.git
-    ⊢.vscode
+    ⨽.vscode
       ⨽settings.json
-    ⊢lib
+    ⨽lib
       ⨽standard libs from Starsector
     ⊢jars (Will appear on first build)
-    ⊢src
+    ⨽src
       ⨽org
         ⨽tuvox
           ⨽ModPlugin.jar
