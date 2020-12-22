@@ -6,7 +6,8 @@
         "lib",
         "jars",
         "*.md",
-        "*.json"
+        "*.json",
+        "*.py"
     ],
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
