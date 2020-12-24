@@ -26,3 +26,5 @@ starsector
 ```
 
 `init.py` should be run after you clone the repository, it sets the Mod Name to the Parent folder name and then tweaks the `mod_info.json` with that information.
+
+`release.py` will package up the necessary files for release after asking for the new version number.
